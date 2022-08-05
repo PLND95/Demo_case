@@ -1,0 +1,6 @@
+Ứng dụng quản lý sản phẩm:
+Gồm các chức năng: 
+    .Quản lý được sản phẩm theo tên, số lượng, hình ảnh
+    .Tìm kiếm sản phẩm theo tên
+    .Tạo được sản phẩm  và số lượng mới 
+    .Chỉnh sửa tên và số lượng các sản phẩm đã hiển thị
